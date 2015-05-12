@@ -1,5 +1,5 @@
 # ProjectGAME
-The game we're making with our Lord and Saviour Yoda Senpai<br />
+The game we're making<br />
 <br />
 <br />
 Така, ето как ще работи цялото нещо:<br />
